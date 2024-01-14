@@ -1,0 +1,18 @@
+com/platzi/example/jobsearch/cli/CLIKeywordValidator.java
+ com.platzi.example.jobsearch.cli.CLIKeywordValidator
+com/platzi/example/jobsearch/api/APIJobs.java
+ com.platzi.example.jobsearch.api.APIJobs
+com/platzi/example/jobsearch/api/APIFunctions.java
+ com.platzi.example.jobsearch.api.APIFunctions
+com/platzi/example/jobsearch/CommanderFunctions.java
+ com.platzi.example.jobsearch.CommanderFunctions
+com/platzi/example/jobsearch/JobSearch.java
+ com.platzi.example.jobsearch.JobSearch
+com/platzi/example/jobsearch/cli/CLIHelpValidator.java
+ com.platzi.example.jobsearch.cli.CLIHelpValidator
+com/platzi/example/jobsearch/cli/CLIFunctions.java
+ com.platzi.example.jobsearch.cli.CLIFunctions
+com/platzi/example/jobsearch/cli/CLIArguments.java
+ com.platzi.example.jobsearch.cli.CLIArguments
+com/platzi/example/jobsearch/JobPosition.java
+ com.platzi.example.jobsearch.JobPosition
